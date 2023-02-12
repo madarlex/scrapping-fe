@@ -1,0 +1,45 @@
+.background {
+  background-color: azure;
+}
+
+.title {
+  padding: 20px 0px;
+  text-align: center;
+}
+
+.scrapping_form {
+  width: 25%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.scrapping_input {
+  margin: 10px 0px;
+}
+
+.scrapping_submit {
+  text-align: center;
+  padding: 10px 0px;
+}
+
+.scrapping_table {
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.scrapping_count {
+  width: 25%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.scrapping_error_loading {
+  width: 25%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 5px 0px;
+}
